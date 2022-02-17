@@ -8,7 +8,7 @@ export default function Entries() {
       id: 0,
       title: 'Replace me!',
       content: '`content` should only be visible on the detail view',
-      date: new Date()
+      date: new Date(),
     },
   ];
 
